@@ -122,6 +122,40 @@
 		<key>Theme</key>
 		<string>Bootcamp2k</string>
 	</dict>
+	<key>Graphics</key>
+	<dict>
+		<key>EDID</key>
+		<dict>
+			<key>Custom</key>
+			<data>
+			AP///////wBMLSULNktKMAoaAQOANB14Kn3RpFZQoSgPUFS/74Bx
+			T4HAgQCBgJUAqcCzAAEBAjqAGHE4LUBYLEUACSUhAAAeAR0AclHQ
+			HiBuKFUACSUhAAAeAAAA/QAySx5REQAKICAgICAgAAAA/ABTMjRE
+			MzYwCiAgICAgAec=
+			</data>
+			<key>HorizontalSyncPulseWidth</key>
+			<string>0x32</string>
+			<key>Inject</key>
+			<false/>
+			<key>ProductID</key>
+			<string>0x2853</string>
+			<key>VendorID</key>
+			<string>0x19501</string>
+		</dict>
+		<key>Inject</key>
+		<dict>
+			<key>ATI</key>
+			<false/>
+			<key>Intel</key>
+			<true/>
+			<key>NVidia</key>
+			<false/>
+		</dict>
+		<key>NvidiaSingle</key>
+		<false/>
+		<key>ig-platform-id</key>
+		<string>0x3E9B0000</string>
+	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
 		<key>AppleIntelCPUPM</key>
